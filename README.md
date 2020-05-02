@@ -1,14 +1,13 @@
+# JS-1
 
-## JS-1
-
-### Tasks:
+## Tasks
 
 - Solve **Basic JavaScript** lessons within **JavaScript Algorithms and Data Structures Certification** on [FCC](https://www.freecodecamp.org/learn/)
-- Create a simple Ping-Pong or Breakout game in JavaScript. Template is provided in the **ping-pong** folder, write your code in the **app.js* file.
+- Create a simple Ping-Pong or Breakout game in JavaScript.
 
 <hr>
 
-### Materials
+## Materials
 
 - [Mozilla JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [W3 JavaScript Tutorial](https://www.w3schools.com/js/)
@@ -17,7 +16,7 @@
 
 <hr>
 
-### Tech stack:
+## Tech stack
 
 - [git](https://git-scm.com/downloads)
 - [GitHub](https://github.com/)
@@ -25,6 +24,6 @@
 
 <hr>
 
-### Shortcuts of the week:
+## Shortcuts of the week
 
 - **Ctrl + K + C/U** to add/remove line comment. **Shift + Alt + A** to toggle block comment
